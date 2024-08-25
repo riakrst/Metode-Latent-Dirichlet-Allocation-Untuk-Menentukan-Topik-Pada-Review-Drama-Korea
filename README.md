@@ -1,4 +1,10 @@
-## Metode Latent Dirichlet Allocation Untuk Menentukan Topik Pada Review Drama Korea
+# Topic Modeling of Korean Drama Reviews Using Latent Dirichlet Allocation (LDA)
 
-Proyek akhir dalam mata kuliah Web Data Extraction, yang dilakukan bersama tim, menggunakan Latent Dirichlet Allocation (LDA) untuk menentukan topik dalam ulasan drama Korea. Proyek ini bertujuan untuk mengidentifikasi topik terkait aspek-aspek penting seperti akting, alur cerita, dan sinematografi, serta memberikan wawasan khusus mengenai preferensi penonton. Proyek ini telah diterbitkan sebagai artikel di Indonesian Journal on Data Science. Artikel dapat dibaca secara lengkap [di sini](https://ejournal.unjaya.ac.id/index.php/ijds/article/view/1345).</br>
-Menggunakan dataset [Korean Drama from 2015-2023 with Actors & Reviews](https://www.kaggle.com/datasets/chanoncharuchinda/korean-drama-2015-23-actor-and-reviewmydramalist)
+### Final Project for Web Data Extraction Course
+This project, conducted in collaboration with a team, utilizes Latent Dirichlet Allocation (LDA) to identify topics within Korean drama reviews. The project aims to uncover topics related to key aspects such as acting, storyline, and cinematography, while also providing specific insights into viewer preferences. This project has been published as an article in the Indonesian Journal on Data Science. The full article can be read [here](https://ejournal.unjaya.ac.id/index.php/ijds/article/view/1345).</br>
+
+Dataset Used: [Korean Drama from 2015-2023 with Actors & Reviews](https://www.kaggle.com/datasets/chanoncharuchinda/korean-drama-2015-23-actor-and-reviewmydramalist)
+
+### Team Members:
+- Alfun Roehatuljannah
+- Ria Kristi
